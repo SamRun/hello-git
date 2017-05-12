@@ -1,4 +1,4 @@
-function a(x){     --master
+function a(x){     --master and iss53
        console.log(x);
 }
 
